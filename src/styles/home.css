@@ -1,0 +1,15 @@
+
+.bienvenidos, .transparencia{
+    box-sizing: border-box;
+}
+
+.bienvenidos{
+    width: 75%;
+    padding-right: 2rem;
+}
+
+
+.transparencia{
+    width: 25%;
+}
+
